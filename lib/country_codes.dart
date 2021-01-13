@@ -500,7 +500,7 @@ List<Map<String, String>> codes = [
     "dial_code": "+354",
   },
   {
-    "name": "भारत",
+    "name": "INDIA",
     "code": "IN",
     "dial_code": "+91",
   },
